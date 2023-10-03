@@ -1,5 +1,0 @@
-FROM ghcr.io/dexidp/dex:v2.36.0
-
-LABEL MAINTAINER="RHTAP QE team"
-
-EXPOSE 5556
